@@ -3,4 +3,4 @@ git status
 git log --online --pretty
 git clone
 git remote -v
-
+git ritik
